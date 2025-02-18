@@ -3,12 +3,12 @@ import React from "react";
 const Footer = () => {
   return (
     <div style={{ marginBottom: 10, textAlign: "center" }}>
-      Made with love by{" "}
+      Made by{" "}
       <a
-        href="https://www.github.com/JunDevHarsh"
+        href="https://www.github.com/prab1421"
         style={{ cursor: "pointer" }}
       >
-        Harsh
+        Prabhat Singh
       </a>
     </div>
   );
